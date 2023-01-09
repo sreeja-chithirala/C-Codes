@@ -1,6 +1,7 @@
 /*
-Suppose that you want to maintain information about different vehicles. You are supposed to create a base class called Vehicle that comprises two data members make and model. Further, extend the base class to create another two subclasses. One namely ‘Car’ with data members price, seating capacity and fuel type. And another ‘bike’ class with data members cylinders, number of gears, and fuel tank size. Further, create another subclass for Audi having a data member to store the horse power. Next, make a subclass BajajBike having a data member engine power in cc. 
+1. Suppose that you want to maintain information about different vehicles. You are supposed to create a base class called Vehicle that comprises two data members make and model. Further, extend the base class to create another two subclasses. One namely ‘Car’ with data members price, seating capacity and fuel type. And another ‘bike’ class with data members cylinders, number of gears, and fuel tank size. Further, create another subclass for Audi having a data member to store the horse power. Next, make a subclass BajajBike having a data member engine power in cc. 
 You have to select the best base class in order to extend the derived class. Also demonstrate the object creation from all the derived classes defined in the program.
+2. In continuation with the Q. No. 1 above, demonstrate the concept function overriding by redefining the member function (method) printDetails() in each of the derived class, that prints the information of each object created.
 */
 
 #include<iostream>

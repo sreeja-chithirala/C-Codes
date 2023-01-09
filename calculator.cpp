@@ -1,3 +1,13 @@
+/* 
+Write the calculator program with inline functions. Your program should support the following operations.
+  Addition             (+)
+  Multiplication     (*)
+  Arithmetic modulo     (%)
+  Decimal to Binary     (B)
+  Binary to Decimal     (D)
+  2’s complement        (2)
+ */
+
 #include <iostream>
 using namespace std;
 

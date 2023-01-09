@@ -1,3 +1,12 @@
+/*
+Write a class named Student having two attributes (a) RollNo, (b) Name & (c) Date of Birth. Write a function  GetAgeOf Student() which takes the Student object and prints the Age of the Student based on today’s date in Year, Month, and Days.
+Implement 3 versions of the GetAgeToday() (e.g. GetAgeToday1(),GetAgeToday2() and GetAgeToday3() as per the following specifications
+a. GetAgeToday1: Implement it using call by value.
+b. GetAgeToday2: Implement it using call by reference.
+c. GetAgeToday3: Implement it using call by address.
+Add an attribute variable TotalStudent to the student class which tells how many student objects have been instantiated so far.
+*/
+
 #include<iostream>
 using namespace std;
 
